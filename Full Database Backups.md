@@ -1,7 +1,4 @@
----
-tags: 
-date published: 2024-04-30
----
+
 ### Full DB Backups
 
 | DB                                          | Machine            | Local Backup Path            | Local Backup Schedule                | S3 Backup Location                                                                                                                                                                                                                                                                                                                                                                           | S3 Backup Schedule                                                                 |
