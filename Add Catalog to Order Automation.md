@@ -24,7 +24,7 @@ The automation is incorporated as a series of actions in the workflow that also 
 1. Open the sales order approval workflow, currently: [Sales Order Basic Approval v4](https://4672856.app.netsuite.com/app/common/workflow/setup/nextgen/workflowdesktop.nl?id=227&whence=)
 2. Click EDIT and select the PENDING APPROVAL stage
     
-    ![[Resources/attachments/Untitled 46.png|Untitled 46.png]]
+    ![[Untitled 46.png|Untitled 46.png]]
     
 
 ### Update the Create Line action
